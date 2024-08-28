@@ -43,7 +43,7 @@ function Search() {
     <>
     <h2 className='headers'>Task 2: Implement and Test a React Component with API Integration (Take-Home)
     </h2>
-    <p>Github:- <a href='https://github.com/Sudip-khadka/searching-and-api-testing-with-jest'>View Code</a></p>
+    <h3 className="headers">Github:- <a href='https://github.com/Sudip-khadka/searching-and-api-testing-with-jest'>View Code</a></h3>
     <div className="search-container">
       <div className="search-bar">
         <input
